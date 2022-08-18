@@ -1,0 +1,62 @@
+body {
+  background-color: #300a24;
+  font-family: Ubuntu Mono, monospace;
+  font-size: 1em;
+  color: rgb(255, 255, 255);
+  line-height: 1.26em;
+}
+
+h1, p, ol, ul {
+  font-size: 24px;
+  margin: 4px;
+  line-height: 1.26em;
+}
+
+img {
+  border-radius: 10%;
+}
+
+.username {
+  color: #78b945;
+}
+
+.home {
+  color: #808db7;
+}
+
+#cabecalho {
+  top: 0;
+}
+
+#minha_foto {
+  max-width: 300px;
+}
+
+.lado-direito {
+  color: bisque;
+  background-color: aqua;
+  float: right;
+}
+
+.lado-esquerdo {
+  color: aqua;
+  background-color: bisque;
+  float: left;
+}
+
+table {
+  margin: 0;
+  padding: 0;
+  border: 0;
+}
+
+footer a {
+  font-size: 24px;
+  text-decoration: none;
+  color: rgb(255, 255, 255);
+}
+
+footer a:hover {
+  text-decoration: underline;
+  font-style: italic;
+}
